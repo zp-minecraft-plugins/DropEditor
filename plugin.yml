@@ -1,0 +1,7 @@
+name: DropEditor
+main: me.zackpollard.dropeditor.DropEditor
+version: "0.1"
+commands:
+    dropeditor:
+        description: Reloads the DeathPrice configuration
+        usage: /dropeditor reload
